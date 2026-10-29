@@ -122,12 +122,7 @@ Después de la fusión se deben revisar los siguientes aspectos:
 
 ## 8. Recursos visuales
 ### Guía visual del procedimiento
-
-![Infografía técnica de preparación y fusión de fibra óptica](Guía visual de fusión de fibra óptica.png)
-
-*Infografía educativa generada digitalmente para este manual. No corresponde a fotografías de una práctica realizada.*
-Las fotografías y diagramas de la práctica se almacenarán en `assets/img/` y se incorporarán a este manual mediante rutas relativas.
-
+![Infografía técnica de preparación y fusión de fibra óptica](assets/img/Guía%20visual%20de%20fusión%20de%20fibra%20óptica.png)
 ## Conclusión
 
 La calidad de una fusión de fibra óptica depende de una preparación cuidadosa, una limpieza adecuada, un corte preciso y una correcta alineación. La verificación final permite identificar defectos y evaluar la continuidad del enlace.
