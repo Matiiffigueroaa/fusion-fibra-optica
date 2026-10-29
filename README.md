@@ -123,7 +123,7 @@ Después de la fusión se deben revisar los siguientes aspectos:
 ## 8. Recursos visuales
 ### Guía visual del procedimiento
 
-![Infografía técnica de preparación y fusión de fibra óptica](assets/img/guia-fusion-fibra.png)
+![Infografía técnica de preparación y fusión de fibra óptica](assets/img/[guia-fusion-fibra.png](https://github.com/Matiiffigueroaa/fusion-fibra-optica/blob/main/assets/img/Gu%C3%ADa%20visual%20de%20fusi%C3%B3n%20de%20fibra%20%C3%B3ptica.png))
 
 *Infografía educativa generada digitalmente para este manual. No corresponde a fotografías de una práctica realizada.*
 Las fotografías y diagramas de la práctica se almacenarán en `assets/img/` y se incorporarán a este manual mediante rutas relativas.
