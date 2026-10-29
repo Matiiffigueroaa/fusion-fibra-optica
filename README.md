@@ -72,7 +72,11 @@ Documentar de manera clara y práctica el procedimiento de preparación, limpiez
 
 > **Error común:** Un corte inclinado o irregular dificulta la alineación y puede aumentar las pérdidas.
 
-**Referencia visual:** Incorporar una fotografía o esquema comparando un corte correcto y uno defectuoso en la carpeta `assets/img/`.
+### Comparación de cortes de fibra óptica
+
+![Comparativa de corte correcto y defectuoso](assets/img/Comparativa%20de%20cortes%20de%20fibra%20óptica.png)
+
+*Comparación ilustrativa de un corte perpendicular correcto y un corte defectuoso que puede provocar pérdidas de señal.*
 
 ## 5. Proceso de termofusión
 
