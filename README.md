@@ -121,7 +121,11 @@ Después de la fusión se deben revisar los siguientes aspectos:
 | Fusión rechazada | Extremos defectuosos o configuración incorrecta | Revisar preparación y programa del equipo. |
 
 ## 8. Recursos visuales
+### Guía visual del procedimiento
 
+![Infografía técnica de preparación y fusión de fibra óptica](assets/img/guia-fusion-fibra.png)
+
+*Infografía educativa generada digitalmente para este manual. No corresponde a fotografías de una práctica realizada.*
 Las fotografías y diagramas de la práctica se almacenarán en `assets/img/` y se incorporarán a este manual mediante rutas relativas.
 
 ## Conclusión
