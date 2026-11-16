@@ -1,169 +1,515 @@
 
-## 📊 6. Resultados de la práctica
+# 🔬 Manual Técnico: Fusión de Fibra Óptica
 
-Durante la actividad de laboratorio se realizó el procedimiento de preparación, corte, alineación y fusión de fibra óptica utilizando una fusionadora.
+### 📡 Preparación, corte, empalme y protección de fibra óptica
+
+**🏫 Institución:** INACAP La Serena  
+**🎓 Carrera:** Ingeniería en Telecomunicaciones  
+**🔧 Actividad:** Fusión de fibra óptica por arco eléctrico  
+**📅 Año:** 2026  
+**📘 Modalidad:** Práctica de laboratorio  
+
+---
+
+## 📑 Índice de contenidos
+
+1. [📖 Introducción](#-1-introducción)
+2. [🎯 Objetivos](#-2-objetivos)
+3. [📚 Fundamentos teóricos](#-3-fundamentos-teóricos)
+4. [🛠️ Herramientas y materiales](#️-4-herramientas-y-materiales)
+5. [⚡ Procedimiento de fusión](#-5-procedimiento-de-fusión)
+6. [📊 Resultados obtenidos](#-6-resultados-obtenidos)
+7. [⚠️ Problemas frecuentes](#️-7-problemas-frecuentes)
+8. [🖼️ Registro fotográfico](#️-8-registro-fotográfico)
+9. [🦺 Seguridad y buenas prácticas](#-9-seguridad-y-buenas-prácticas)
+10. [📚 Aprendizajes obtenidos](#-10-aprendizajes-obtenidos)
+11. [🏁 Conclusión](#-11-conclusión)
+
+---
+
+## 📖 1. Introducción
+
+La fibra óptica es uno de los principales medios de transmisión utilizados en las redes modernas de telecomunicaciones.
+
+Su funcionamiento se basa en la transmisión de información mediante señales luminosas que viajan a través de un núcleo de vidrio o material transparente.
+
+Entre sus principales ventajas se encuentran:
+
+- 🚀 Alta capacidad de transmisión de datos.
+- 📡 Comunicación a grandes distancias.
+- 🛡️ Inmunidad a interferencias electromagnéticas.
+- 📉 Baja atenuación de la señal.
+- 🌐 Aplicación en redes de internet y telecomunicaciones.
+
+Para unir dos segmentos de fibra óptica se utiliza un procedimiento denominado **fusión de fibra óptica**, que permite crear una unión permanente mediante calor generado por un arco eléctrico.
+
+En este manual se documenta el procedimiento de preparación, corte, alineación, fusión y protección de fibras ópticas, utilizando fotografías obtenidas durante una actividad práctica de laboratorio.
+
+> [!NOTE]
+> 📌 **PROPÓSITO DEL MANUAL:** Documentar de manera técnica y visual el procedimiento de fusión de fibra óptica, identificando las herramientas, las etapas de trabajo y los posibles errores.
+
+---
+
+## 🎯 2. Objetivos
+
+### 🎯 Objetivo general
+
+Comprender y documentar el procedimiento de fusión de fibra óptica mediante la utilización de herramientas especializadas, aplicando técnicas de preparación, alineación y protección del empalme.
+
+### 📌 Objetivos específicos
+
+- 🔍 Identificar las herramientas utilizadas en la preparación de fibra óptica.
+- ✂️ Comprender la importancia de realizar cortes de precisión.
+- 🧼 Reconocer la necesidad de limpiar correctamente la fibra.
+- ⚡ Conocer el funcionamiento de una fusionadora por arco eléctrico.
+- 📉 Interpretar los resultados estimados por el equipo.
+- 🛡️ Comprender la función de las mangas termorretráctiles.
+- ⚠️ Identificar errores frecuentes durante el procedimiento.
+- 📸 Registrar las distintas etapas mediante evidencia fotográfica.
+
+---
+
+## 📚 3. Fundamentos teóricos
+
+### 🔹 3.1. ¿Qué es la fibra óptica?
+
+La fibra óptica es un medio de transmisión que utiliza pulsos de luz para transportar información.
+
+Está compuesta principalmente por:
+
+| Componente | Función |
+|---|---|
+| 🔵 Núcleo | Permite la propagación de la luz. |
+| ⚪ Revestimiento óptico | Mantiene la luz confinada mediante la diferencia de índices de refracción. |
+| 🟡 Recubrimiento protector | Protege la fibra frente a daños mecánicos y ambientales. |
+| ⚫ Cubierta exterior | Proporciona protección adicional al cable. |
+
+### 🔹 3.2. Tipos de fibra óptica
+
+**Fibra monomodo (SMF)**
+
+Permite la propagación de un modo espacial de luz y se utiliza principalmente en comunicaciones de larga distancia.
+
+**Fibra multimodo (MMF)**
+
+Permite la propagación de múltiples modos y se utiliza principalmente en enlaces de menor distancia, como determinadas redes internas y centros de datos.
+
+> [!IMPORTANT]
+> 🔵 **IMPORTANTE:** El tipo exacto de fibra utilizado durante la actividad no quedó registrado, por lo que no se identifica como monomodo o multimodo en los resultados experimentales.
+
+### 🔹 3.3. ¿Qué es la fusión de fibra óptica?
+
+La fusión es un procedimiento que permite unir permanentemente dos extremos de fibra óptica.
+
+Para realizarla se utiliza una máquina denominada **fusionadora**, que alinea las fibras y aplica un arco eléctrico para unir sus extremos.
+
+El objetivo es conseguir una unión con la menor pérdida óptica posible.
+
+### 🔹 3.4. ¿Qué es la pérdida óptica?
+
+La pérdida óptica corresponde a la disminución de potencia luminosa que se produce durante la transmisión.
+
+Se expresa habitualmente en decibelios (dB).
+
+En una fusión, una pérdida elevada puede estar relacionada con:
+
+- Cortes defectuosos.
+- Contaminación en los extremos.
+- Alineación incorrecta.
+- Defectos durante la unión.
+
+> [!TIP]
+> 🟢 **CONSEJO TÉCNICO:** Una fusión de buena calidad requiere limpieza, precisión y una alineación correcta de ambas fibras.
+
+---
+
+## 🛠️ 4. Herramientas y materiales
+
+Para realizar el procedimiento se utilizan herramientas especializadas que permiten preparar y unir correctamente las fibras ópticas.
+
+### 🔧 4.1. Herramientas principales
+
+| Herramienta | Función |
+|---|---|
+| ⚡ Fusionadora | Une las fibras mediante un arco eléctrico. |
+| ✂️ Cortadora de precisión | Realiza un corte adecuado en el extremo de la fibra. |
+| 🔧 Peladora de fibra | Retira las capas protectoras de la fibra. |
+| 🧼 Alcohol isopropílico | Permite limpiar la fibra antes del empalme. |
+| 🧻 Toallitas sin pelusa | Retiran residuos sin dejar fibras contaminantes. |
+| 🛡️ Manga termorretráctil | Protege mecánicamente la zona fusionada. |
+| 🧤 Guantes de protección | Ayudan a proteger las manos durante la manipulación. |
+
+### 📸 Herramienta de corte
+
+![Cortadora de fibra óptica](Nueva%20carpeta/cortadora.jpeg)
+
+*Figura 1. Cortadora de precisión utilizada durante la preparación de fibra óptica.*
+
+### ⚡ Fusionadora utilizada
+
+Durante la práctica se utilizó una fusionadora identificada como:
+
+**Vcnex VFS-30**
+
+Este equipo permite visualizar los extremos de las fibras, realizar su alineación y ejecutar el proceso de fusión.
+
+### 🧰 Función de la fusionadora
+
+1. Recibir los extremos preparados de las fibras.
+2. Visualizar su posición mediante cámaras internas.
+3. Realizar la alineación correspondiente.
+4. Aplicar el arco eléctrico.
+5. Estimar la pérdida del empalme.
+6. Permitir la protección mediante el horno incorporado.
+
+---
+
+## ⚡ 5. Procedimiento de fusión
+
+A continuación se describe el procedimiento técnico de fusión de fibra óptica.
+
+### 🔹 Paso 1. Preparación del área de trabajo
+
+Antes de comenzar, se debe disponer de una superficie limpia, estable y libre de elementos que puedan contaminar la fibra.
+
+Se organizan las herramientas necesarias para facilitar el procedimiento.
+
+**Recomendaciones:**
+
+- Mantener limpia la superficie.
+- Evitar polvo y suciedad.
+- Utilizar herramientas adecuadas.
+- Disponer de un recipiente para residuos de fibra.
+
+### 🔹 Paso 2. Preparación del cable
+
+Se retira cuidadosamente la cubierta exterior del cable para acceder a los elementos internos.
+
+Es importante evitar daños en la fibra durante este procedimiento.
+
+> [!CAUTION]
+> 🔴 **PRECAUCIÓN:** La fibra óptica es frágil y puede fracturarse si se aplica una fuerza excesiva.
+
+### 🔹 Paso 3. Pelado de la fibra
+
+Se utiliza una herramienta de pelado para retirar el recubrimiento protector de la sección que será fusionada.
+
+El objetivo es dejar expuesta la fibra de vidrio sin provocar daños en su superficie.
+
+### 🔹 Paso 4. Limpieza
+
+Se limpia la fibra utilizando alcohol isopropílico y material sin pelusa.
+
+Esta etapa permite eliminar residuos que podrían afectar la calidad de la unión.
+
+> [!TIP]
+> 🟢 **CONSEJO:** Después de limpiar la fibra, evita tocar directamente la sección de vidrio expuesta.
+
+### 🔹 Paso 5. Corte de precisión
+
+Se utiliza una cortadora especializada para obtener un extremo limpio y lo más perpendicular posible al eje de la fibra.
+
+![Cortadora](Nueva%20carpeta/cortadora.jpeg)
+
+*Figura 2. Herramienta utilizada para realizar el corte de precisión.*
+
+Un corte incorrecto puede provocar que la fusionadora rechace el empalme o estime una pérdida elevada.
+
+### ❌ Ejemplo de corte defectuoso
+
+![Corte defectuoso](Nueva%20carpeta/mal%20Corte.jpeg)
+
+*Figura 3. Visualización de un extremo defectuoso en la pantalla de la fusionadora.*
+
+Cuando se detecta un corte incorrecto, se debe repetir la preparación del extremo.
+
+### 🔹 Paso 6. Preparación de la fusionadora
+
+Se prepara el equipo y se verifica que sus soportes se encuentren en condiciones adecuadas.
+
+![Fusionadora preparada](Nueva%20carpeta/fusionadora%20dentro.jpeg)
+
+*Figura 4. Vista de la fusionadora utilizada durante el laboratorio.*
+
+### 🔹 Paso 7. Posicionamiento de las fibras
+
+Los extremos preparados se colocan cuidadosamente en los soportes correspondientes.
+
+![Fibras posicionadas](Nueva%20carpeta/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg)
+
+*Figura 5. Posicionamiento de las fibras en el interior de la fusionadora.*
+
+Es importante que ambas fibras se encuentren correctamente sujetas y ubicadas.
+
+### 🔹 Paso 8. Verificación de alineación
+
+La fusionadora utiliza sus cámaras internas para visualizar los extremos de las fibras.
+
+![Antes de fusionar](Nueva%20carpeta/antes%20de%20la%20fusion.jpeg)
+
+*Figura 6. Visualización de los extremos antes de ejecutar la fusión.*
+
+La alineación adecuada es fundamental para conseguir un empalme de buena calidad.
+
+### 🔹 Paso 9. Ejecución de la fusión
+
+Una vez verificadas las condiciones de preparación, se ejecuta el proceso de fusión.
+
+La máquina aplica un arco eléctrico que calienta y une los extremos de vidrio.
+
+![Pantalla de fusionadora](Nueva%20carpeta/pantala%20fusionadora.jpeg)
+
+*Figura 7. Pantalla de supervisión del proceso.*
+
+Durante esta etapa el equipo puede identificar errores y estimar la pérdida del empalme.
+
+### 🔹 Paso 10. Revisión del resultado
+
+Después de completar la unión, se revisa el resultado mostrado por la fusionadora.
+
+![Fusión completada](Nueva%20carpeta/fucion%20completada%200.00DB.jpeg)
+
+*Figura 8. Pantalla con pérdida estimada de 0,00 dB.*
+
+En el registro fotográfico se observa una pérdida estimada de **0,00 dB**.
+
+> [!IMPORTANT]
+> 🔵 **IMPORTANTE:** Este valor es una estimación del equipo y no demuestra que el enlace tenga una pérdida real de cero. La comprobación requiere instrumentos ópticos adecuados.
+
+### 🔹 Paso 11. Protección termorretráctil
+
+Una vez completada la fusión, se posiciona una manga termorretráctil sobre la unión.
+
+La manga se introduce en el horno de la fusionadora para aplicar calor y contraer el material protector.
+
+![Termorretráctil](Nueva%20carpeta/termoretractil%20puesta.jpeg)
+
+*Figura 9. Protección de la unión mediante manga termorretráctil.*
+
+Esta protección permite:
+
+- 🛡️ Proporcionar soporte mecánico.
+- 🔒 Proteger la zona fusionada.
+- 📉 Reducir el riesgo de daños por manipulación.
+- 🔧 Facilitar el almacenamiento seguro del empalme.
+
+> [!NOTE]
+> 📌 **DATO TÉCNICO:** El compartimento donde se calienta la manga se denomina horno termorretráctil o calentador de mangas de protección.
+
+---
+
+## 📊 6. Resultados obtenidos
+
+Durante la actividad de laboratorio se documentaron distintas etapas del proceso de fusión de fibra óptica.
 
 ### 🔬 Registro técnico
 
 | Parámetro | Resultado |
 |---|---|
-| 🏫 Lugar | Laboratorio de INACAP La Serena |
-| 🔧 Equipo utilizado | Fusionadora Vcnex VFS-30 |
+| 🏫 Lugar | INACAP La Serena |
+| 🔧 Equipo | Vcnex VFS-30 |
 | 🔌 Tipo de fibra | No registrado |
 | 📉 Pérdida estimada | 0,00 dB |
-| ✅ Estado de la fusión | Fusión completada según el equipo |
-| 🔍 Continuidad óptica | No verificada instrumentalmente |
+| ⚡ Proceso | Fusión por arco eléctrico |
 | 🛡️ Protección | Manga termorretráctil |
+| 🔍 Medición independiente | No documentada |
+| 📸 Evidencia | Registro fotográfico |
 
-### 📸 Evidencia del resultado
+### 📉 Resultado observado
 
-![Fusión completada](Nueva%20carpeta/fucion%20completada%200.00DB.jpeg)
+![Resultado de la fusión](Nueva%20carpeta/fucion%20completada%200.00DB.jpeg)
 
-*Pantalla de la fusionadora mostrando una pérdida estimada de 0,00 dB.*
+*Figura 10. Registro del resultado estimado por la fusionadora.*
+
+La pantalla muestra una pérdida estimada de **0,00 dB**, lo que representa un resultado favorable según el cálculo realizado por el equipo.
+
+Sin embargo, no se dispone de una medición independiente para confirmar la pérdida real del empalme.
+
+### 📌 Interpretación técnica
+
+La estimación entregada por la fusionadora permite realizar una evaluación inicial del empalme.
+
+Para verificar las características reales del enlace pueden utilizarse instrumentos como:
+
+- Medidor de potencia óptica.
+- Fuente de luz óptica.
+- Reflectómetro óptico en el dominio del tiempo (OTDR).
 
 > [!IMPORTANT]
-> 🔵 **IMPORTANTE:** El valor de 0,00 dB corresponde a una estimación calculada por la fusionadora. No representa necesariamente una pérdida real nula. Para verificar el enlace se requieren instrumentos de medición óptica.
-
-### 📝 Observaciones
-
-Durante el procedimiento se observaron distintas etapas de preparación de la fibra, incluyendo la identificación de cortes defectuosos, el posicionamiento de los extremos y la supervisión del empalme.
-
-La práctica permitió conocer el funcionamiento de una fusionadora y la importancia de proteger correctamente la unión obtenida.
+> 🔵 **RESULTADO DE LA ACTIVIDAD:** Se obtuvo evidencia fotográfica de un empalme con pérdida estimada de 0,00 dB. No se documentó una medición instrumental independiente.
 
 ---
 
-## 🛠️ 7. Solución de problemas frecuentes
+## ⚠️ 7. Problemas frecuentes
 
-Durante la fusión de fibra óptica pueden presentarse errores que afectan la calidad del empalme.
+Durante el proceso de fusión pueden presentarse errores que afectan la calidad del empalme.
 
-| ⚠️ Problema | 🔎 Posible causa | ✅ Solución |
+| Problema | Posible causa | Acción correctiva |
 |---|---|---|
-| **Corte irregular** | Fibra mal posicionada o cortadora sucia. | Limpiar y repetir el corte. |
-| **Pérdida elevada** | Suciedad, desalineación o corte defectuoso. | Limpiar y preparar nuevamente las fibras. |
-| **Fibra fracturada** | Presión excesiva durante la manipulación. | Repetir la preparación. |
-| **Fusión rechazada** | Extremos defectuosos o parámetros incorrectos. | Revisar la preparación y configuración. |
-| **Protección deficiente** | Manga mal posicionada o calentamiento insuficiente. | Revisar la posición y aplicar el ciclo adecuado. |
+| ❌ Corte irregular | Cortadora sucia o fibra mal posicionada. | Limpiar y repetir el corte. |
+| 📉 Pérdida elevada | Suciedad, mala alineación o corte defectuoso. | Preparar nuevamente las fibras. |
+| 💔 Fibra fracturada | Presión excesiva durante el pelado. | Repetir la preparación. |
+| ⚡ Fusión rechazada | Extremos defectuosos o configuración incorrecta. | Revisar la preparación y los parámetros. |
+| 🛡️ Protección incorrecta | Manga mal posicionada o calentamiento insuficiente. | Revisar la manga y aplicar el ciclo adecuado. |
 
-### ❌ Ejemplo de un corte incorrecto
+### 🔍 Evidencia de un problema de corte
 
-![Corte incorrecto](Nueva%20carpeta/mal%20Corte.jpeg)
+![Mal corte](Nueva%20carpeta/mal%20Corte.jpeg)
 
-*La pantalla permite observar un extremo irregular que puede impedir una fusión adecuada.*
+*Figura 11. Ejemplo de un corte defectuoso detectado durante la preparación.*
 
 > [!TIP]
-> 🟢 **CONSEJO TÉCNICO:** Si la fusionadora detecta un corte defectuoso, no se debe continuar con la fusión. Es necesario preparar nuevamente el extremo de la fibra.
+> 🟢 **CONSEJO TÉCNICO:** Ante una fusión defectuosa, revisa primero la limpieza, el corte y el posicionamiento de las fibras antes de repetir el procedimiento.
 
 ---
 
-## 🖼️ 8. Registro fotográfico de la práctica
+## 🖼️ 8. Registro fotográfico
 
-En esta sección se presenta evidencia fotográfica de las principales etapas realizadas durante la actividad de laboratorio.
+Esta sección reúne las evidencias visuales de las principales etapas del procedimiento realizado en laboratorio.
 
-### 🔧 8.1. Preparación de herramientas
+### 📸 Galería del procedimiento
 
-Para preparar la fibra óptica se utilizan herramientas de corte, pelado y limpieza.
-
-La preparación correcta es fundamental para evitar defectos durante el empalme.
-
-### ✂️ 8.2. Corte de precisión
+#### ✂️ 1. Cortadora de precisión
 
 ![Cortadora](Nueva%20carpeta/cortadora.jpeg)
 
-*Herramienta de corte de precisión utilizada para preparar el extremo de la fibra óptica.*
+*Herramienta utilizada para preparar los extremos de la fibra.*
 
-El corte debe ser limpio y lo más perpendicular posible al eje de la fibra.
+#### ❌ 2. Corte defectuoso
 
-### 🔬 8.3. Preparación de la fusionadora
+![Corte incorrecto](Nueva%20carpeta/mal%20Corte.jpeg)
+
+*Visualización de un extremo que requiere una nueva preparación.*
+
+#### 🔧 3. Preparación de la fusionadora
 
 ![Fusionadora](Nueva%20carpeta/fusionadora%20dentro.jpeg)
 
-*Vista de la fusionadora utilizada durante la práctica.*
+*Equipo utilizado para realizar la unión de las fibras.*
 
-La fusionadora permite alinear los extremos de dos fibras ópticas y unirlos mediante un arco eléctrico.
+#### 📍 4. Posicionamiento
 
-### 📍 8.4. Posicionamiento de las fibras
+![Fibras](Nueva%20carpeta/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg)
 
-![Posicionamiento](Nueva%20carpeta/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg)
+*Colocación de los extremos de fibra en los soportes.*
 
-*Colocación de las fibras en los soportes de la fusionadora.*
-
-Las fibras deben quedar correctamente sujetas y posicionadas para permitir su alineación.
-
-### 🔍 8.5. Verificación antes de fusionar
+#### 🔍 5. Antes de la fusión
 
 ![Antes de la fusión](Nueva%20carpeta/antes%20de%20la%20fusion.jpeg)
 
-*Visualización de los extremos de las fibras antes del proceso de fusión.*
+*Visualización de los extremos antes de ejecutar el empalme.*
 
-En esta etapa se revisa que los extremos se encuentren preparados y alineados.
+#### 🖥️ 6. Pantalla de supervisión
 
-### 🖥️ 8.6. Supervisión en pantalla
+![Pantalla](Nueva%20carpeta/pantala%20fusionadora.jpeg)
 
-![Pantalla de fusionadora](Nueva%20carpeta/pantala%20fusionadora.jpeg)
+*Supervisión del proceso mediante las cámaras internas.*
 
-*Pantalla de supervisión de la fusionadora.*
+#### ⚡ 7. Fusión completada
 
-El equipo permite visualizar los extremos de las fibras y detectar posibles problemas de preparación o alineación.
+![Fusión](Nueva%20carpeta/fucion%20completada%200.00DB.jpeg)
 
-### ⚡ 8.7. Fusión completada
+*Resultado con pérdida estimada de 0,00 dB.*
 
-![Resultado de fusión](Nueva%20carpeta/fucion%20completada%200.00DB.jpeg)
+#### 🛡️ 8. Protección del empalme
 
-*Resultado registrado con una pérdida estimada de 0,00 dB.*
+![Protección](Nueva%20carpeta/termoretractil%20puesta.jpeg)
 
-La fusionadora muestra el resultado estimado del empalme una vez finalizado el proceso.
+*Colocación de la manga termorretráctil para proteger la unión.*
+
+### 🎨 Recurso educativo complementario
+
+![Infografía técnica de preparación y fusión de fibra óptica](assets/img/Gu%C3%ADa%20visual%20de%20fusi%C3%B3n%20de%20fibra%20%C3%B3ptica.png)
+
+*Infografía educativa sobre la estructura, preparación, corte y termofusión de fibra óptica.*
 
 > [!NOTE]
-> 📌 **RESULTADO OBSERVADO:** La pantalla registra una pérdida estimada de 0,00 dB. Para confirmar la pérdida real del empalme se requiere una medición óptica independiente.
-
-### 🛡️ 8.8. Protección termorretráctil
-
-![Protección termorretráctil](Nueva%20carpeta/termoretractil%20puesta.jpeg)
-
-*Colocación de la manga termorretráctil en el horno de la fusionadora.*
-
-Después de realizar la fusión se protege la unión mediante una manga termorretráctil.
-
-Esta protección proporciona soporte mecánico y ayuda a evitar daños en la zona del empalme.
-
-> [!IMPORTANT]
-> 🔵 **SEGURIDAD:** Los fragmentos de fibra óptica deben depositarse en un recipiente adecuado. No deben manipularse directamente ni dejarse sobre la mesa de trabajo.
+> 📌 **ORIGEN DE LAS IMÁGENES:** Las ocho fotografías del registro corresponden a la actividad práctica de laboratorio. La infografía complementaria es un recurso ilustrativo generado digitalmente.
 
 ---
 
-## 📚 9. Aprendizajes obtenidos
+## 🦺 9. Seguridad y buenas prácticas
 
-La actividad permitió comprender aspectos fundamentales del trabajo con fibra óptica:
+La manipulación de fibra óptica requiere medidas de seguridad debido a la fragilidad del vidrio y a las herramientas utilizadas.
 
-- 🔧 **Preparación:** importancia del pelado, limpieza y corte de precisión.
-- 🔬 **Alineación:** correcta colocación de las fibras en la fusionadora.
-- ⚡ **Termofusión:** funcionamiento del equipo durante el empalme.
-- 📉 **Evaluación:** interpretación de la pérdida estimada por la fusionadora.
-- 🛡️ **Protección:** utilización de mangas termorretráctiles.
-- ⚠️ **Prevención:** identificación de errores y aplicación de medidas de seguridad.
+### ⚠️ Riesgos principales
+
+| Riesgo | Medida preventiva |
+|---|---|
+| Fragmentos de vidrio | Utilizar un recipiente especial para residuos. |
+| Cortes en las manos | Manipular cuidadosamente las fibras y herramientas. |
+| Contaminación de la fibra | Mantener limpia el área de trabajo. |
+| Quemaduras | Evitar tocar el horno durante el calentamiento. |
+| Exposición óptica | No mirar directamente los extremos de una fibra que pueda estar activa. |
+
+### 🧤 Recomendaciones
+
+- Utilizar los elementos de protección adecuados.
+- Mantener las herramientas organizadas.
+- No tocar los extremos de vidrio preparados.
+- Depositar los residuos en un recipiente seguro.
+- Evitar movimientos bruscos durante la fusión.
+- Respetar las instrucciones del fabricante.
+- Verificar que la fibra no esté transmitiendo luz antes de inspeccionarla.
+
+> [!CAUTION]
+> 🔴 **ADVERTENCIA:** Los fragmentos de fibra óptica pueden ser extremadamente pequeños y penetrar la piel. Nunca deben dejarse sobre la mesa ni eliminarse sin un recipiente adecuado.
 
 ---
 
-## 🏁 10. Conclusión
+## 📚 10. Aprendizajes obtenidos
 
-La práctica de fusión de fibra óptica permitió comprender el procedimiento necesario para unir dos fibras mediante termofusión.
+La actividad permitió relacionar los conocimientos teóricos de telecomunicaciones con procedimientos técnicos utilizados en instalaciones de fibra óptica.
 
-Se identificó la importancia de realizar una preparación adecuada, utilizar herramientas de precisión y verificar la alineación de los extremos antes de iniciar el empalme.
+### 🔧 Preparación
 
-Durante la actividad se registró una pérdida estimada de **0,00 dB** en la pantalla de la fusionadora. Este resultado representa una estimación favorable del equipo, aunque no sustituye una medición instrumental.
+Se comprendió la importancia de preparar correctamente la fibra antes de realizar una unión.
 
-Finalmente, se destacó la importancia de utilizar una manga termorretráctil para proteger mecánicamente la unión y reducir el riesgo de daños posteriores.
+### ✂️ Corte de precisión
 
-La experiencia permitió relacionar los conocimientos teóricos con procedimientos prácticos utilizados en instalaciones de telecomunicaciones.
+Se identificó que un corte defectuoso puede afectar el procedimiento e impedir una fusión adecuada.
+
+### ⚡ Funcionamiento de la fusionadora
+
+Se observó cómo el equipo permite alinear las fibras y realizar la unión mediante un arco eléctrico.
+
+### 📉 Interpretación de resultados
+
+Se aprendió a interpretar la pérdida estimada que aparece en la pantalla de la fusionadora y a diferenciarla de una medición instrumental.
+
+### 🛡️ Protección del empalme
+
+Se reconoció la importancia de proteger la unión mediante una manga termorretráctil.
+
+### 🦺 Seguridad
+
+Se identificaron medidas preventivas necesarias para trabajar con fibra óptica y herramientas de precisión.
+
+---
+
+## 🏁 11. Conclusión
+
+La práctica de fusión de fibra óptica permitió comprender las distintas etapas necesarias para realizar un empalme mediante arco eléctrico.
+
+Durante el procedimiento se identificó la importancia de una preparación adecuada, la limpieza de los extremos, el corte de precisión y la correcta alineación de las fibras.
+
+También se observaron posibles errores durante el proceso, especialmente aquellos relacionados con cortes defectuosos, los cuales pueden afectar la calidad de la unión.
+
+El registro fotográfico permitió documentar un resultado de **0,00 dB de pérdida estimada**, mostrado por la fusionadora Vcnex VFS-30. Aunque este valor representa una estimación favorable, se reconoce la necesidad de utilizar instrumentos adicionales para verificar la pérdida real del empalme.
+
+Finalmente, se destacó la importancia de proteger la unión mediante una manga termorretráctil, proporcionando soporte mecánico y reduciendo el riesgo de daños posteriores.
+
+Esta experiencia permitió fortalecer los conocimientos relacionados con la instalación, mantenimiento y operación de redes de fibra óptica, fundamentales en el área de las telecomunicaciones.
 
 ---
 
 ### 🏫 INACAP La Serena
 
-**🎓 Carrera:** Ingeniería en Telecomunicaciones
+**🎓 Carrera:** Ingeniería en Telecomunicaciones  
+**📘 Documento:** Manual técnico de fusión de fibra óptica  
+**🔬 Actividad:** Práctica de laboratorio  
+**📅 Año:** 2026  
 
-**📘 Actividad:** Manual técnico de fusión de fibra óptica
+---
 
-**🔬 Modalidad:** Práctica de laboratorio
-
-**📅 Año:** 2026
+*📡 Documento educativo elaborado para registrar y explicar el procedimiento técnico de fusión de fibra óptica.*
