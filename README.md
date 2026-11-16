@@ -44,7 +44,7 @@ Entre sus principales ventajas se encuentran:
 
 Para unir dos segmentos de fibra óptica se utiliza un procedimiento denominado **fusión de fibra óptica**, que permite crear una unión permanente mediante calor generado por un arco eléctrico.
 
-En este manual se documenta el procedimiento de preparación, corte, alineación, fusión y protección de fibras ópticas, utilizando fotografías obtenidas durante una actividad práctica de laboratorio.
+En este manual se documenta el procedimiento de preparación, corte, alineación, fusión y protección de fibras ópticas, utilizando fotografías obtenidas durante una actividad práctica de laboratorio e imágenes de apoyo técnico.
 
 > [!NOTE]
 > 📌 **PROPÓSITO DEL MANUAL:** Documentar de manera técnica y visual el procedimiento de fusión de fibra óptica, identificando las herramientas, las etapas de trabajo y los posibles errores.
@@ -107,6 +107,16 @@ La fusión es un procedimiento que permite unir permanentemente dos extremos de 
 Para realizarla se utiliza una máquina denominada **fusionadora**, que alinea las fibras y aplica un arco eléctrico para unir sus extremos.
 
 El objetivo es conseguir una unión con la menor pérdida óptica posible.
+
+### 🖼️ Guía visual del proceso de fusión
+
+<p align="center">
+  <img src="assets/img/Gu%C3%ADa%20visual%20de%20fusi%C3%B3n%20de%20fibra%20%C3%B3ptica.png" width="450" alt="Guía visual de fusión de fibra óptica">
+</p>
+
+<p align="center"><em>Imagen de apoyo 1. Guía visual del procedimiento de fusión de fibra óptica.</em></p>
+
+Esta ilustración complementa la explicación del procedimiento, permitiendo visualizar las etapas principales de preparación, alineación, unión y protección de la fibra.
 
 ### 🔹 3.4. ¿Qué es la pérdida óptica?
 
@@ -239,6 +249,16 @@ Se utiliza una cortadora especializada para obtener un extremo limpio y lo más 
 <p align="center"><em>Figura 4. Herramienta utilizada para realizar el corte de precisión.</em></p>
 
 Un corte incorrecto puede provocar que la fusionadora rechace el empalme o estime una pérdida elevada.
+
+### 🖼️ Comparativa de cortes de fibra óptica
+
+<p align="center">
+  <img src="assets/img/Comparativa%20de%20cortes%20de%20fibra%20%C3%B3ptica.png" width="450" alt="Comparativa de cortes de fibra óptica">
+</p>
+
+<p align="center"><em>Imagen de apoyo 2. Comparación visual de cortes de fibra óptica.</em></p>
+
+La comparación permite comprender por qué es importante obtener extremos limpios y adecuados antes de realizar una fusión.
 
 ### ❌ Ejemplo de corte defectuoso
 
@@ -413,6 +433,8 @@ Durante el proceso de fusión pueden presentarse errores que afectan la calidad 
 
 Esta sección reúne las evidencias visuales de las principales etapas del procedimiento realizado en laboratorio.
 
+Las fotografías corresponden a la práctica realizada. Las dos imágenes explicativas se encuentran en las secciones 3 y 5 como material de apoyo.
+
 ### 📸 Galería del procedimiento
 
 #### 🛠️ 1. Herramientas de preparación
@@ -488,7 +510,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 <p align="center"><em>Colocación de la manga termorretráctil para proteger la unión.</em></p>
 
 > [!NOTE]
-> 📌 **ORIGEN DE LAS IMÁGENES:** Las nueve fotografías corresponden al registro de la actividad práctica de laboratorio y están organizadas en la carpeta `assets/img/` del repositorio.
+> 📌 **ORIGEN DE LAS IMÁGENES:** Las nueve fotografías corresponden al registro de la actividad práctica de laboratorio. Las otras dos imágenes son material visual de apoyo y no representan mediciones ni resultados de la práctica.
 
 ---
 
