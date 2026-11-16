@@ -160,7 +160,7 @@ Durante la práctica se utilizó una fusionadora identificada como:
 Este equipo permite visualizar los extremos de las fibras, realizar su alineación y ejecutar el proceso de fusión.
 
 <p align="center">
-  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora Vcnex VFS-30">
+  <img src="assets/img/fusionadora%20dentro.jpeg" width="450" alt="Fusionadora Vcnex VFS-30">
 </p>
 
 <p align="center"><em>Figura 2. Vista interior de la fusionadora utilizada en el laboratorio.</em></p>
@@ -233,7 +233,7 @@ Un corte incorrecto puede provocar que la fusionadora rechace el empalme o estim
 ### ❌ Ejemplo de corte defectuoso
 
 <p align="center">
-  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Corte defectuoso">
+  <img src="assets/img/mal%20Corte.jpeg" width="450" alt="Corte defectuoso">
 </p>
 
 <p align="center"><em>Figura 4. Visualización de un extremo defectuoso en la pantalla de la fusionadora.</em></p>
@@ -245,7 +245,7 @@ Cuando se detecta un corte incorrecto, se debe repetir la preparación del extre
 Se prepara el equipo y se verifica que sus soportes se encuentren en condiciones adecuadas.
 
 <p align="center">
-  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora preparada">
+  <img src="assets/img/fusionadora%20dentro.jpeg" width="450" alt="Fusionadora preparada">
 </p>
 
 <p align="center"><em>Figura 5. Vista de la fusionadora utilizada durante el laboratorio.</em></p>
@@ -255,7 +255,7 @@ Se prepara el equipo y se verifica que sus soportes se encuentren en condiciones
 Los extremos preparados se colocan cuidadosamente en los soportes correspondientes.
 
 <p align="center">
-  <img src="assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
+  <img src="assets/img/cables%20en%20posicion%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
 </p>
 
 <p align="center"><em>Figura 6. Posicionamiento de las fibras en el interior de la fusionadora.</em></p>
@@ -281,7 +281,7 @@ Una vez verificadas las condiciones de preparación, se ejecuta el proceso de fu
 La máquina aplica un arco eléctrico que calienta y une los extremos de vidrio.
 
 <p align="center">
-  <img src="assets/img/Pantala%20fusionadora.jpeg" width="450" alt="Pantalla de fusionadora">
+  <img src="assets/img/pantala%20fusionadora.jpeg" width="450" alt="Pantalla de fusionadora">
 </p>
 
 <p align="center"><em>Figura 8. Pantalla de supervisión del proceso.</em></p>
@@ -310,7 +310,7 @@ Una vez completada la fusión, se posiciona una manga termorretráctil sobre la 
 La manga se introduce en el horno de la fusionadora para aplicar calor y contraer el material protector.
 
 <p align="center">
-  <img src="assets/img/Termoretractil%20puesta.jpeg" width="450" alt="Protección termorretráctil">
+  <img src="assets/img/termoretractil%20puesta.jpeg" width="450" alt="Protección termorretráctil">
 </p>
 
 <p align="center"><em>Figura 10. Protección de la unión mediante manga termorretráctil.</em></p>
@@ -388,7 +388,7 @@ Durante el proceso de fusión pueden presentarse errores que afectan la calidad 
 ### 🔍 Evidencia de un problema de corte
 
 <p align="center">
-  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Mal corte">
+  <img src="assets/img/mal%20Corte.jpeg" width="450" alt="Mal corte">
 </p>
 
 <p align="center"><em>Figura 12. Ejemplo de un corte defectuoso detectado durante la preparación.</em></p>
@@ -416,7 +416,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 #### ❌ 2. Corte defectuoso
 
 <p align="center">
-  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Corte incorrecto">
+  <img src="assets/img/mal%20Corte.jpeg" width="450" alt="Corte incorrecto">
 </p>
 
 <p align="center"><em>Visualización de un extremo que requiere una nueva preparación.</em></p>
@@ -424,7 +424,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 #### 🔧 3. Preparación de la fusionadora
 
 <p align="center">
-  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora">
+  <img src="assets/img/fusionadora%20dentro.jpeg" width="450" alt="Fusionadora">
 </p>
 
 <p align="center"><em>Equipo utilizado para realizar la unión de las fibras.</em></p>
@@ -432,7 +432,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 #### 📍 4. Posicionamiento
 
 <p align="center">
-  <img src="assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
+  <img src="assets/img/cables%20en%20posicion%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
 </p>
 
 <p align="center"><em>Colocación de los extremos de fibra en los soportes.</em></p>
@@ -448,7 +448,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 #### 🖥️ 6. Pantalla de supervisión
 
 <p align="center">
-  <img src="assets/img/Pantala%20fusionadora.jpeg" width="450" alt="Pantalla">
+  <img src="assets/img/pantala%20fusionadora.jpeg" width="450" alt="Pantalla">
 </p>
 
 <p align="center"><em>Supervisión del proceso mediante las cámaras internas.</em></p>
@@ -464,7 +464,7 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 #### 🛡️ 8. Protección del empalme
 
 <p align="center">
-  <img src="assets/img/Termoretractil%20puesta.jpeg" width="450" alt="Protección">
+  <img src="assets/img/termoretractil%20puesta.jpeg" width="450" alt="Protección">
 </p>
 
 <p align="center"><em>Colocación de la manga termorretráctil para proteger la unión.</em></p>
