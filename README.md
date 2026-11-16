@@ -141,7 +141,8 @@ Para realizar el procedimiento se utilizan herramientas especializadas que permi
 
 ### 📸 Herramienta de corte
 
-![Cortadora de fibra óptica](Nueva%20carpeta/cortadora.jpeg)
+![Cortadora de fibra óptica](./Nueva%20carpeta/cortadora.jpeg)
+
 
 *Figura 1. Cortadora de precisión utilizada durante la preparación de fibra óptica.*
 
