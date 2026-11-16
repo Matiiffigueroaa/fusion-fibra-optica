@@ -13,21 +13,21 @@
 
 ## 📑 Índice de contenidos
 
-1. [📖 Introducción](#1-introduccion)
-2. [🎯 Objetivos](#2-objetivos)
-3. [📚 Fundamentos teóricos](#3-fundamentos-teoricos)
-4. [🛠️ Herramientas y materiales](#4-herramientas-y-materiales)
-5. [⚡ Procedimiento de fusión](#5-procedimiento-de-fusion)
-6. [📊 Resultados obtenidos](#6-resultados-obtenidos)
-7. [⚠️ Problemas frecuentes](#7-problemas-frecuentes)
-8. [🖼️ Registro fotográfico](#8-registro-fotografico)
-9. [🦺 Seguridad y buenas prácticas](#9-seguridad-y-buenas-practicas)
-10. [📚 Aprendizajes obtenidos](#10-aprendizajes-obtenidos)
-11. [🏁 Conclusión](#11-conclusion)
+1. [📖 Introducción](#introduccion)
+2. [🎯 Objetivos](#objetivos)
+3. [📚 Fundamentos teóricos](#fundamentos)
+4. [🛠️ Herramientas y materiales](#herramientas)
+5. [⚡ Procedimiento de fusión](#procedimiento)
+6. [📊 Resultados obtenidos](#resultados)
+7. [⚠️ Problemas frecuentes](#problemas)
+8. [🖼️ Registro fotográfico](#fotografias)
+9. [🦺 Seguridad y buenas prácticas](#seguridad)
+10. [📚 Aprendizajes obtenidos](#aprendizajes)
+11. [🏁 Conclusión](#conclusion)
 
 ---
 
-<a id="1-introduccion"></a>
+<a id="introduccion"></a>
 ## 📖 1. Introducción
 
 La fibra óptica es uno de los principales medios de transmisión utilizados en las redes modernas de telecomunicaciones.
@@ -51,7 +51,7 @@ En este manual se documenta el procedimiento de preparación, corte, alineación
 
 ---
 
-<a id="2-objetivos"></a>
+<a id="objetivos"></a>
 ## 🎯 2. Objetivos
 
 ### 🎯 Objetivo general
@@ -71,7 +71,7 @@ Comprender y documentar el procedimiento de fusión de fibra óptica mediante la
 
 ---
 
-<a id="3-fundamentos-teoricos"></a>
+<a id="fundamentos"></a>
 ## 📚 3. Fundamentos teóricos
 
 ### 🔹 3.1. ¿Qué es la fibra óptica?
@@ -126,7 +126,7 @@ En una fusión, una pérdida elevada puede estar relacionada con:
 
 ---
 
-<a id="4-herramientas-y-materiales"></a>
+<a id="herramientas"></a>
 ## 🛠️ 4. Herramientas y materiales
 
 Para realizar el procedimiento se utilizan herramientas especializadas que permiten preparar y unir correctamente las fibras ópticas.
@@ -145,9 +145,11 @@ Para realizar el procedimiento se utilizan herramientas especializadas que permi
 
 ### 📸 Herramienta de corte
 
-![Cortadora de fibra óptica](assets/img/cortadora.jpeg)
+<p align="center">
+  <img src="assets/img/cortadora.jpeg" width="450" alt="Cortadora de fibra óptica">
+</p>
 
-*Figura 1. Cortadora de precisión utilizada durante la preparación de fibra óptica.*
+<p align="center"><em>Figura 1. Cortadora de precisión utilizada durante la preparación de fibra óptica.</em></p>
 
 ### ⚡ 4.2. Fusionadora utilizada
 
@@ -157,9 +159,11 @@ Durante la práctica se utilizó una fusionadora identificada como:
 
 Este equipo permite visualizar los extremos de las fibras, realizar su alineación y ejecutar el proceso de fusión.
 
-![Fusionadora](assets/img/Fusionadora%20dentro.jpeg)
+<p align="center">
+  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora Vcnex VFS-30">
+</p>
 
-*Figura 2. Vista interior de la fusionadora utilizada en el laboratorio.*
+<p align="center"><em>Figura 2. Vista interior de la fusionadora utilizada en el laboratorio.</em></p>
 
 ### 🧰 Funciones de la fusionadora
 
@@ -172,7 +176,7 @@ Este equipo permite visualizar los extremos de las fibras, realizar su alineaci�
 
 ---
 
-<a id="5-procedimiento-de-fusion"></a>
+<a id="procedimiento"></a>
 ## ⚡ 5. Procedimiento de fusión
 
 A continuación se describe el procedimiento técnico de fusión de fibra óptica.
@@ -218,17 +222,21 @@ Esta etapa permite eliminar residuos que podrían afectar la calidad de la unió
 
 Se utiliza una cortadora especializada para obtener un extremo limpio y lo más perpendicular posible al eje de la fibra.
 
-![Cortadora](assets/img/cortadora.jpeg)
+<p align="center">
+  <img src="assets/img/cortadora.jpeg" width="450" alt="Cortadora">
+</p>
 
-*Figura 3. Herramienta utilizada para realizar el corte de precisión.*
+<p align="center"><em>Figura 3. Herramienta utilizada para realizar el corte de precisión.</em></p>
 
 Un corte incorrecto puede provocar que la fusionadora rechace el empalme o estime una pérdida elevada.
 
 ### ❌ Ejemplo de corte defectuoso
 
-![Corte defectuoso](assets/img/Mal%20Corte.jpeg)
+<p align="center">
+  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Corte defectuoso">
+</p>
 
-*Figura 4. Visualización de un extremo defectuoso en la pantalla de la fusionadora.*
+<p align="center"><em>Figura 4. Visualización de un extremo defectuoso en la pantalla de la fusionadora.</em></p>
 
 Cuando se detecta un corte incorrecto, se debe repetir la preparación del extremo.
 
@@ -236,17 +244,21 @@ Cuando se detecta un corte incorrecto, se debe repetir la preparación del extre
 
 Se prepara el equipo y se verifica que sus soportes se encuentren en condiciones adecuadas.
 
-![Fusionadora preparada](assets/img/Fusionadora%20dentro.jpeg)
+<p align="center">
+  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora preparada">
+</p>
 
-*Figura 5. Vista de la fusionadora utilizada durante el laboratorio.*
+<p align="center"><em>Figura 5. Vista de la fusionadora utilizada durante el laboratorio.</em></p>
 
 ### 🔹 Paso 7. Posicionamiento de las fibras
 
 Los extremos preparados se colocan cuidadosamente en los soportes correspondientes.
 
-![Fibras posicionadas](assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg)
+<p align="center">
+  <img src="assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
+</p>
 
-*Figura 6. Posicionamiento de las fibras en el interior de la fusionadora.*
+<p align="center"><em>Figura 6. Posicionamiento de las fibras en el interior de la fusionadora.</em></p>
 
 Es importante que ambas fibras se encuentren correctamente sujetas y ubicadas.
 
@@ -254,9 +266,11 @@ Es importante que ambas fibras se encuentren correctamente sujetas y ubicadas.
 
 La fusionadora utiliza sus cámaras internas para visualizar los extremos de las fibras.
 
-![Antes de fusionar](assets/img/antes%20de%20la%20fusion.jpeg)
+<p align="center">
+  <img src="assets/img/antes%20de%20la%20fusion.jpeg" width="450" alt="Antes de fusionar">
+</p>
 
-*Figura 7. Visualización de los extremos antes de ejecutar la fusión.*
+<p align="center"><em>Figura 7. Visualización de los extremos antes de ejecutar la fusión.</em></p>
 
 La alineación adecuada es fundamental para conseguir un empalme de buena calidad.
 
@@ -266,9 +280,11 @@ Una vez verificadas las condiciones de preparación, se ejecuta el proceso de fu
 
 La máquina aplica un arco eléctrico que calienta y une los extremos de vidrio.
 
-![Pantalla de fusionadora](assets/img/Pantala%20fusionadora.jpeg)
+<p align="center">
+  <img src="assets/img/Pantala%20fusionadora.jpeg" width="450" alt="Pantalla de fusionadora">
+</p>
 
-*Figura 8. Pantalla de supervisión del proceso.*
+<p align="center"><em>Figura 8. Pantalla de supervisión del proceso.</em></p>
 
 Durante esta etapa el equipo puede identificar errores y estimar la pérdida del empalme.
 
@@ -276,9 +292,11 @@ Durante esta etapa el equipo puede identificar errores y estimar la pérdida del
 
 Después de completar la unión, se revisa el resultado mostrado por la fusionadora.
 
-![Fusión completada](assets/img/fucion%20completada%200.00DB.jpeg)
+<p align="center">
+  <img src="assets/img/fucion%20completada%200.00DB.jpeg" width="450" alt="Fusión completada">
+</p>
 
-*Figura 9. Pantalla con pérdida estimada de 0,00 dB.*
+<p align="center"><em>Figura 9. Pantalla con pérdida estimada de 0,00 dB.</em></p>
 
 En el registro fotográfico se observa una pérdida estimada de **0,00 dB**.
 
@@ -291,9 +309,11 @@ Una vez completada la fusión, se posiciona una manga termorretráctil sobre la 
 
 La manga se introduce en el horno de la fusionadora para aplicar calor y contraer el material protector.
 
-![Protección termorretráctil](assets/img/Termoretractil%20puesta.jpeg)
+<p align="center">
+  <img src="assets/img/Termoretractil%20puesta.jpeg" width="450" alt="Protección termorretráctil">
+</p>
 
-*Figura 10. Protección de la unión mediante manga termorretráctil.*
+<p align="center"><em>Figura 10. Protección de la unión mediante manga termorretráctil.</em></p>
 
 Esta protección permite:
 
@@ -307,7 +327,7 @@ Esta protección permite:
 
 ---
 
-<a id="6-resultados-obtenidos"></a>
+<a id="resultados"></a>
 ## 📊 6. Resultados obtenidos
 
 Durante la actividad de laboratorio se documentaron distintas etapas del proceso de fusión de fibra óptica.
@@ -327,9 +347,11 @@ Durante la actividad de laboratorio se documentaron distintas etapas del proceso
 
 ### 📉 Resultado observado
 
-![Resultado de la fusión](assets/img/fucion%20completada%200.00DB.jpeg)
+<p align="center">
+  <img src="assets/img/fucion%20completada%200.00DB.jpeg" width="450" alt="Resultado de la fusión">
+</p>
 
-*Figura 11. Registro del resultado estimado por la fusionadora.*
+<p align="center"><em>Figura 11. Registro del resultado estimado por la fusionadora.</em></p>
 
 La pantalla muestra una pérdida estimada de **0,00 dB**, lo que representa un resultado favorable según el cálculo realizado por el equipo.
 
@@ -350,7 +372,7 @@ Para verificar las características reales del enlace pueden utilizarse instrume
 
 ---
 
-<a id="7-problemas-frecuentes"></a>
+<a id="problemas"></a>
 ## ⚠️ 7. Problemas frecuentes
 
 Durante el proceso de fusión pueden presentarse errores que afectan la calidad del empalme.
@@ -365,16 +387,18 @@ Durante el proceso de fusión pueden presentarse errores que afectan la calidad 
 
 ### 🔍 Evidencia de un problema de corte
 
-![Mal corte](assets/img/Mal%20Corte.jpeg)
+<p align="center">
+  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Mal corte">
+</p>
 
-*Figura 12. Ejemplo de un corte defectuoso detectado durante la preparación.*
+<p align="center"><em>Figura 12. Ejemplo de un corte defectuoso detectado durante la preparación.</em></p>
 
 > [!TIP]
 > 🟢 **CONSEJO TÉCNICO:** Ante una fusión defectuosa, revisa primero la limpieza, el corte y el posicionamiento de las fibras antes de repetir el procedimiento.
 
 ---
 
-<a id="8-registro-fotografico"></a>
+<a id="fotografias"></a>
 ## 🖼️ 8. Registro fotográfico
 
 Esta sección reúne las evidencias visuales de las principales etapas del procedimiento realizado en laboratorio.
@@ -383,58 +407,74 @@ Esta sección reúne las evidencias visuales de las principales etapas del proce
 
 #### ✂️ 1. Cortadora de precisión
 
-![Cortadora](assets/img/cortadora.jpeg)
+<p align="center">
+  <img src="assets/img/cortadora.jpeg" width="450" alt="Cortadora">
+</p>
 
-*Herramienta utilizada para preparar los extremos de la fibra.*
+<p align="center"><em>Herramienta utilizada para preparar los extremos de la fibra.</em></p>
 
 #### ❌ 2. Corte defectuoso
 
-![Corte incorrecto](assets/img/Mal%20Corte.jpeg)
+<p align="center">
+  <img src="assets/img/Mal%20Corte.jpeg" width="450" alt="Corte incorrecto">
+</p>
 
-*Visualización de un extremo que requiere una nueva preparación.*
+<p align="center"><em>Visualización de un extremo que requiere una nueva preparación.</em></p>
 
 #### 🔧 3. Preparación de la fusionadora
 
-![Fusionadora](assets/img/Fusionadora%20dentro.jpeg)
+<p align="center">
+  <img src="assets/img/Fusionadora%20dentro.jpeg" width="450" alt="Fusionadora">
+</p>
 
-*Equipo utilizado para realizar la unión de las fibras.*
+<p align="center"><em>Equipo utilizado para realizar la unión de las fibras.</em></p>
 
 #### 📍 4. Posicionamiento
 
-![Fibras](assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg)
+<p align="center">
+  <img src="assets/img/cables%20en%20posici%C3%B3n%20dentro%20de%20fusionadora.jpeg" width="450" alt="Fibras posicionadas">
+</p>
 
-*Colocación de los extremos de fibra en los soportes.*
+<p align="center"><em>Colocación de los extremos de fibra en los soportes.</em></p>
 
 #### 🔍 5. Antes de la fusión
 
-![Antes de la fusión](assets/img/antes%20de%20la%20fusion.jpeg)
+<p align="center">
+  <img src="assets/img/antes%20de%20la%20fusion.jpeg" width="450" alt="Antes de la fusión">
+</p>
 
-*Visualización de los extremos antes de ejecutar el empalme.*
+<p align="center"><em>Visualización de los extremos antes de ejecutar el empalme.</em></p>
 
 #### 🖥️ 6. Pantalla de supervisión
 
-![Pantalla](assets/img/Pantala%20fusionadora.jpeg)
+<p align="center">
+  <img src="assets/img/Pantala%20fusionadora.jpeg" width="450" alt="Pantalla">
+</p>
 
-*Supervisión del proceso mediante las cámaras internas.*
+<p align="center"><em>Supervisión del proceso mediante las cámaras internas.</em></p>
 
 #### ⚡ 7. Fusión completada
 
-![Fusión](assets/img/fucion%20completada%200.00DB.jpeg)
+<p align="center">
+  <img src="assets/img/fucion%20completada%200.00DB.jpeg" width="450" alt="Fusión">
+</p>
 
-*Resultado con pérdida estimada de 0,00 dB.*
+<p align="center"><em>Resultado con pérdida estimada de 0,00 dB.</em></p>
 
 #### 🛡️ 8. Protección del empalme
 
-![Protección](assets/img/Termoretractil%20puesta.jpeg)
+<p align="center">
+  <img src="assets/img/Termoretractil%20puesta.jpeg" width="450" alt="Protección">
+</p>
 
-*Colocación de la manga termorretráctil para proteger la unión.*
+<p align="center"><em>Colocación de la manga termorretráctil para proteger la unión.</em></p>
 
 > [!NOTE]
 > 📌 **ORIGEN DE LAS IMÁGENES:** Las ocho fotografías corresponden al registro de la actividad práctica de laboratorio y están organizadas en la carpeta `assets/img/` del repositorio.
 
 ---
 
-<a id="9-seguridad-y-buenas-practicas"></a>
+<a id="seguridad"></a>
 ## 🦺 9. Seguridad y buenas prácticas
 
 La manipulación de fibra óptica requiere medidas de seguridad debido a la fragilidad del vidrio y a las herramientas utilizadas.
@@ -464,7 +504,7 @@ La manipulación de fibra óptica requiere medidas de seguridad debido a la frag
 
 ---
 
-<a id="10-aprendizajes-obtenidos"></a>
+<a id="aprendizajes"></a>
 ## 📚 10. Aprendizajes obtenidos
 
 La actividad permitió relacionar los conocimientos teóricos de telecomunicaciones con procedimientos técnicos utilizados en instalaciones de fibra óptica.
@@ -495,7 +535,7 @@ Se identificaron medidas preventivas necesarias para trabajar con fibra óptica 
 
 ---
 
-<a id="11-conclusion"></a>
+<a id="conclusion"></a>
 ## 🏁 11. Conclusión
 
 La práctica de fusión de fibra óptica permitió comprender las distintas etapas necesarias para realizar un empalme mediante arco eléctrico.
